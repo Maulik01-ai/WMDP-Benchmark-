@@ -2,13 +2,8 @@
 wmdp-main: contains the benchmark data and code. 
 # Improving Machine Unlearning Precision for Biosecurity Knowledge in LLMs
 
-**Course**: Responsible AI Engineering  
-**Semester**: Fall 2024
 
-## Team Members
-- Zahra Rahmani - [GitHub: @zazmir] - [zxr81@case.edu]
-- Lyra Bhatnagar - [GitHub: @username] - [lxb414@case.edu]
-- Maulik Moghe - [GitHub: @username] - [Email]
+- Maulik Moghe 
 
 ---
 
@@ -373,12 +368,6 @@ MIT License - See LICENSE file
 
 ---
 
-## Acknowledgments
-
-- Professor Biswas and TA Panimalar for valuable feedback
-- Original WMDP authors for open-sourcing benchmark
-- Center for AI Safety for hosting WMDP resources
-- HuggingFace for model infrastructure
 
 ---
 
